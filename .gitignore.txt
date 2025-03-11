@@ -1,0 +1,23 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios de build e distribuição
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Arquivos de configuração de IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Outros arquivos temporários
+*.tmp
